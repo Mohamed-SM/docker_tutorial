@@ -23,7 +23,7 @@ if you go the the official website of redis and then to the download page and ta
 a look at the installation process it's will ask you to download the tar ball then 
 extract it and then compile it and more ....
 
-![](../../../_media/Screenshot%20from%202019-11-22%2013-59-03.png)
+![](../_media/Screenshot%20from%202019-11-22%2013-59-03.png)
 
 and if you find an error along the way you will have to google it and then try again and again,
 i mean do you want to really go throw all of that in stead of running just one command using docker
