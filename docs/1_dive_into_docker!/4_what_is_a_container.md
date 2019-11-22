@@ -1,8 +1,10 @@
 # 4. What's a Container
+
 the first thing you should do is not to think about it a physical construct in your computer, because it's not, it's more 
 like a process or a set of processes that's has a grouping of resources assigned to it. i know it's not clear what i mean 
 by that but follow along. because this is the result that we are going to get at the end, and for now we should start
 buy a diagram about the operating system:
+
 ## The operating system
 blow is a basic diagram for the operating system, we see it's contains in the lower layer the hardware (CPU,RAM,HDD)
 and above it the [kernel](https://en.wikipedia.org/wiki/Linux_kernel) and at the top we have the applications, now imagine that the application1 wants to read
