@@ -1,11 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-- Introduction
-    - [Introduction](/README.md)
-    - [About Laravel (Official description)](/laravel_official_readme.md)
-    - [Get Stated](/get_started.md)
-- Prerequisites
-    - [1 How laravel works](prerequisites/1-how-laravel-works.md)
-    - [2 Install PHP MySQL and Composer](prerequisites/2-install-php-mysql-and-composer)
-    - [3 The Laravel Installer](prerequisites/3-the-laravel-Installer.md)
-
+1. [Introduction](/README.md)
+2. Dive Into Docker!
+    - [1. What is docker & Why use it ?](1_dive_into_docker!/1_why_use_docker.md)
+    - [2. Installing Docker](1_dive_into_docker!/2_installing_docker.md)
+    - [3. Using the Docker Client](1_dive_into_docker!/3_sing_the_docker_client.md)
+    - [4. What's a Container](1_dive_into_docker!/4_what%27s_a_container.md)

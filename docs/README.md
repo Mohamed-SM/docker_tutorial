@@ -1,8 +1,6 @@
 # Laravel Forum With Vuejs
 [Documentation](https://mohamed-sm.github.io/Laravel_Forum_With_Vuejs/)
 
-<p align="center"><img src="./_media/laravel_forum_with_vuejs.png" width="100%"></p>
-
 ## About this course
  
 this is an introductory course to web development using Laravel and Vue js, it's intended for beginners how don't have much experience with web applications as well as intermediate programmers who want to add  Laravel and Vue js as a skill.
