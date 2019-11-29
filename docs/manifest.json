@@ -1,6 +1,6 @@
 {
-  "short_name": "Laravel tutorial",
-  "name": "Laravel Forum With Vue js",
+  "short_name": "Docker Tutorial",
+  "name": "Docker and Kubernetes The Complete Guide",
   "icons": [
     {
       "src": "./_media/icon-192.png",
@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://mohamed-sm.github.io/Laravel_Forum_With_Vuejs/",
+  "start_url": "https://mohamed-sm.github.io/docker_tutorial/",
   "background_color": "#FFF",
   "display": "standalone",
-  "scope": "/Laravel_Forum_With_Vuejs/",
+  "scope": "/docker_tutorial/",
   "theme_color": "#FFF"
 }
